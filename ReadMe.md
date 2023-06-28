@@ -7,3 +7,7 @@
 ##Alternatively
 1. Turn on developer mode on your phone and enable USB debugging or connect to the same WIFI as your computer.
 2. Run `npm start` and `npx expo start` in simultaneous terminals.
+
+
+####APK
+https://medium.com/geekculture/react-native-generate-apk-debug-and-release-apk-4e9981a2ea51
